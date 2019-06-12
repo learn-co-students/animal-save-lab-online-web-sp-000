@@ -5,8 +5,13 @@ html {
 #ostrich {
   position: absolute;
   top: 50px;
-  right: 0;
+  right: 0px;
 }
 
 /* Write your solution here */
 
+
+@media screen and (max-width: 1360px){
+  #ostrich {position: absolute;
+    top: -50px;}
+}

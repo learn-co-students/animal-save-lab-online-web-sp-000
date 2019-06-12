@@ -5,8 +5,11 @@ html {
 #bear {
   position: absolute;
   top: 100px;
-  right: 0;
+  right: 0px;
 }
 
 /* Write your solution here */
-
+@media screen and (min-width: 1196px){
+  #bear {position: absolute;
+  left: 800px;}
+}

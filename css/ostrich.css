@@ -1,8 +1,7 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
-
-#ostrich {
+#osrich{
   position: absolute;
   top: 50px;
   right: 0;
@@ -10,3 +9,8 @@ html {
 
 /* Write your solution here */
 
+@media screen and (max-device-width: 1320px){
+  #ostrich {
+    top: -50px;}
+    
+      }

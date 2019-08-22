@@ -9,4 +9,11 @@ html {
 }
 
 /* Write your solution here */
-
+@media screen and (max-width: 1400px) {
+  body {
+    background-color: red;
+  }
+  #ostrich {
+    margin-top: -100px;
+  }
+}

@@ -10,3 +10,12 @@ html {
 
 /* Write your solution here */
 
+@media screen and (max-width: 1000px, min-width: 1500px) {
+  body {
+    background: black;
+  }
+  #monkey > img{
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+}

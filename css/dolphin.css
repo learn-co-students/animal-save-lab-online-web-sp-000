@@ -18,5 +18,12 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+/* Write your solution here * transform: rotate(0.5turn); rotate for half circle*/
 
+@media only screen and (min-width: 642px) and (max-width: 1090px) {
+  #dolphin {
+    transform: rotate(-0.25turn);
+    top: 100px;
+    right: 0;
+  } 
+}

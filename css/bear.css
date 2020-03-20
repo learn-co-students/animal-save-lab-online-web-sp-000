@@ -8,5 +8,13 @@ html {
   right: 0;
 }
 
+@media all and (max-width: 1196px){
+  #bear div {
+    position: fixed;
+    right: 800px;
+  }
+
+}
+
 /* Write your solution here */
 

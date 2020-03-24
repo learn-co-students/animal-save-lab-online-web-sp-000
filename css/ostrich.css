@@ -10,3 +10,11 @@ html {
 
 /* Write your solution here */
 
+.wrapper {
+  width: 1196px;
+}
+ 
+@media only screen and (max-width: 1196px) {
+  .wrapper { width: 90%; }
+  #ostrich {top: -50px;}
+}

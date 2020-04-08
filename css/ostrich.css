@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+div#ostrich {
+  position: absolute;
+  top: -100px;
+  right: 800px;
+}

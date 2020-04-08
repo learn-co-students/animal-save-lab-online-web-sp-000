@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+body div#monkey {
+  position: fixed;
+  top: 0px;
+  right: 700px;
+}

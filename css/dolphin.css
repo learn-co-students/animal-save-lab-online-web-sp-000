@@ -19,4 +19,8 @@ html {
 }
 
 /* Write your solution here */
-
+div#dolphin {
+  position: absolute;
+  top: 50px;
+  right: 600px;
+}

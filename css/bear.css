@@ -10,3 +10,7 @@ html {
 
 /* Write your solution here */
 
+div#bear {
+  position: absolute;
+  right: 500px;
+}

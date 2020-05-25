@@ -20,3 +20,8 @@ html {
 
 /* Write your solution here */
 
+@media(width-min:642) and (width-max:1090){
+  #dolphin {
+    transform: rotate(-90deg);
+  }
+}

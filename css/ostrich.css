@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
+@media(max-width: 1312px){
+  #ostrich{
+    transform: translateY(-100px)
+  }
+}
 

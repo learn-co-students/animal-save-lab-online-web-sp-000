@@ -21,6 +21,7 @@ sure that no matter the size of the browser window, our animals stay out of
 trouble.
 
 ## Instructions
+##
 
 1. Open the index.html in the browser to navigate to different animal pages to
 see which ones you can rescue. Click on any individual animal to see the

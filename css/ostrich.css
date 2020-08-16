@@ -1,7 +1,12 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
-
+/*
+  * For the ostrich, starting with the screen larger and dragging it smaller
+  (desktop down) have the ostrich jump upwards 100px closer to the top of the
+  screen to avoid being eaten by the alligator. As the screen gets smaller then
+  he will run on top of Mr. Alligator's back.
+*/
 #ostrich {
   position: absolute;
   top: 50px;
@@ -9,4 +14,10 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width: 1323px) {
+  #ostrich{
+    top:-50px;
+  }
+}
+
 

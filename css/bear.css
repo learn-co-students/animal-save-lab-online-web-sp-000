@@ -2,11 +2,14 @@ html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
 
+@media (min-width: 480px) {
+
+}
+
 #bear {
   position: absolute;
+  left: 800px;
   top: 100px;
-  right: 0;
 }
 
 /* Write your solution here */
-

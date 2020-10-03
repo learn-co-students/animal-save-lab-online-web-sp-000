@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
-
+@media (min-width: 1196px) {
+  #bear {
+    position: relative;
+    top: 100px;
+    left: 800px;
+  }
+}

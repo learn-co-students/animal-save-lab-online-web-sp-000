@@ -9,8 +9,7 @@ html {
 }
 @media only screen {
   #ostrich {
-    position: absolute;
-    top: 100px;
+    top: -50px;
   }
 }
 

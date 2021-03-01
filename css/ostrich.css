@@ -8,5 +8,17 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media only screen and (max-width: 1375px) {
+  #ostrich {
+  	position: absolute;
+  	top: -50px;
+  }
+
+@media only screen and (max-width: 800px) {
+  #ostrich {
+  	position: absolute;
+  	left: 500px;
+  }
+}  
+}
 

@@ -8,5 +8,12 @@ html {
   right: 120px;
 }
 
+@media (min-width: 642px) and  (max-width: 1207px){
+  #monkey {
+    position: absolute;
+    top: -10px;
+  }
+}
+
 /* Write your solution here */
 
